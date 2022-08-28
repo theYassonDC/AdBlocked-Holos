@@ -2,7 +2,9 @@
 bloqueador de anuncios version beta, este bloquea por ahora anuncios del hotel llamado kubbo.city si tiene mas apoyo va tener mas disponibilidad para mas habbo holos
 
 
+__**Secciones**__
 
+- [Descargar archivo]()
 
 
 
@@ -65,6 +67,39 @@ bloqueador de anuncios version beta, este bloquea por ahora anuncios del hotel l
 > Al ver el icono en la barra de herramientas ya esta en uso de esta manera puedes usar la extension en edge!
 
 ![image](https://user-images.githubusercontent.com/98669750/187091296-dfe8056e-fd09-4bb0-9ec1-59d38f4bde5b.png)
+
+
+- # **Para Chrome**
+
+> Clic en el icono llamada extensiones
+
+![image](https://user-images.githubusercontent.com/98669750/187091808-37156ff0-3aa6-4c12-a374-aaae7d8a442c.png)
+
+> Luego le das a la opcion llamada extensiones o ve a la url `chrome://extensions/`
+
+![image](https://user-images.githubusercontent.com/98669750/187091836-d12ba7ef-6655-4eb4-852a-faf5ec372f0a.png)
+
+> Para usar la extension activa el modo desarrollador dandole clic
+
+![image](https://user-images.githubusercontent.com/98669750/187091937-2104d34f-cc24-40ed-96cc-0b786f31c8dd.png)
+
+
+> Luego le das a la opcion llamada Cargar descomprimida
+
+![image](https://user-images.githubusercontent.com/98669750/187092007-1f43b6f4-042e-423b-9797-fa3426e9815d.png)
+
+> Hacemos un proceso similar al de edge seleccionamos la carpeta AdBlocked-Holo-main y la abrimos dandole doble clic
+
+![image](https://user-images.githubusercontent.com/98669750/187092094-edfbf727-8c7f-48f8-ba6a-bd12d126c84d.png)
+
+> Luego de estar en la carpeta AdBlocked-Holo-main seleccionamos la carpeta llamada extension y le damos al boton de seleccionar carpeta
+
+![image](https://user-images.githubusercontent.com/98669750/187092135-9e14a5c8-8899-473a-80fc-3e564e363be8.png)
+
+> Ya tenemos la extension en chrome para ver la en la barra de tareas le das al iconito de extensiones luego en el iconito llamado fijar y listo!
+
+![image](https://user-images.githubusercontent.com/98669750/187092233-9bf34b38-a7cc-4827-a162-2de253aa2eb6.png)
+
 
 
 # **Disponible en los navegadores**
