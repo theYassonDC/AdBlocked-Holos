@@ -22,7 +22,7 @@ bloqueador de anuncios version beta, este bloquea por ahora anuncios del hotel l
 
 
 # Usar la extension 
-- **Para Edge**
+- # **Para Edge**
 > Dale clic al apartado de los 3 puntitos
 
 ![image](https://user-images.githubusercontent.com/98669750/187090907-0f1558d2-5769-459d-8ab1-f708065d3a89.png)
