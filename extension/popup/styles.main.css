@@ -1,0 +1,17 @@
+*{
+    width: 500px;
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+}
+
+.conteiner-ui{
+    background-color: #5858586e;
+    padding: 3px;
+}
+.conteiner-ui h1{
+    text-align: center;
+}
+.conteiner-ui p{
+   padding-top: 3px;
+}

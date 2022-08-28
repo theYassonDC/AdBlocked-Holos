@@ -1,0 +1,23 @@
+{
+    "name": "Block publics",
+    "version": "0.0.0.1",
+    "manifest_version": 2,
+    "description": "Extension from block publicitys",
+    "author": "JuandaC",
+    "icons": {
+        "128": "icons/R.png"
+    },
+    "browser_action": {
+        "default_popup": "popup/popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://kubbo.city/*"
+            ],
+            "js": [
+                "scripts/blocker.main.js"
+            ]
+        }
+    ]
+}
