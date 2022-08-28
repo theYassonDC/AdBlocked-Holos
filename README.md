@@ -4,9 +4,19 @@ bloqueador de anuncios version beta, este bloquea por ahora anuncios del hotel l
 
 __**Secciones**__
 
-- [Descargar archivo]()
+- [Descargar archivo](https://github.com/theYassonDC/AdBlocked-Holos#descargar-archivo)
+- [Usar extension para edge](https://github.com/theYassonDC/AdBlocked-Holos#para-edge)
+- [Usar extension para google chrome](https://github.com/theYassonDC/AdBlocked-Holos#para-chrome)
 
 
+
+> <h3>Actualizaciones</h3>
+```json
+{
+  "version": "v0.0.0.1 - beta",
+  "updates": "No hay por el momento."
+}
+```
 
 # Descargar archivo 
 > 1. Clic en el boton donde dice "Code"
