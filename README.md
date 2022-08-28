@@ -6,7 +6,7 @@ bloqueador de anuncios version beta, este bloquea por ahora anuncios del hotel l
 
 
 
-# Como usar la extension 
+# Descargar archivo 
 > 1. Clic en el boton donde dice "Code"
 
 ![image](https://user-images.githubusercontent.com/98669750/187090409-38876d57-4dde-434a-a843-4d5c96302930.png)
@@ -21,6 +21,7 @@ bloqueador de anuncios version beta, este bloquea por ahora anuncios del hotel l
 ![image](https://user-images.githubusercontent.com/98669750/187090652-47c231ee-0659-4ee2-bac1-e727f8016b85.png)
 
 
+# Usar la extension 
 - **Para Edge**
 > Dale clic al apartado de los 3 puntitos
 
