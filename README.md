@@ -35,6 +35,13 @@ bloqueador de anuncios version beta, este bloquea por ahora anuncios del hotel l
 
 ![image](https://user-images.githubusercontent.com/98669750/187090960-4e4ddea2-ec76-4221-9864-625ae8a86206.png)
 
+
+> Activa el modo desarrolador 
+
+![image](https://user-images.githubusercontent.com/98669750/187091658-7b3bc2e3-03fe-45f9-a839-837f570e3986.png)
+
+
+
 > Luego de estar en la administracion de extensiones le das a la opcion llamada Carga desempaquetada dar clic para cargar un archivo
 
 ![image](https://user-images.githubusercontent.com/98669750/187091056-65cf9be7-425f-451e-84aa-6e99d1feff51.png)
@@ -45,7 +52,7 @@ bloqueador de anuncios version beta, este bloquea por ahora anuncios del hotel l
 
 
 
-> Seleccionas el archio llamado extension y luego le das a seleccionar archivo para cargarlo 
+> Seleccionas el archivo llamado extension y luego le das a seleccionar archivo para cargarlo 
 
 ![image](https://user-images.githubusercontent.com/98669750/187091181-31b2d3f8-f95c-42c6-bb2f-0c010d874171.png)
 
