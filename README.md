@@ -18,6 +18,10 @@ bloqueador de anuncios version beta, este bloquea por ahora anuncios del hotel l
 
 ![image](https://user-images.githubusercontent.com/98669750/187090479-e7346a52-ef80-4cfd-afd4-187b3e3f0983.png)
 
+> 3. Luego de que se haya descargado el archivo .zip lo comprimimos dandole clic derecho y darle a la opcion de "Extraer aqui"
+
+![image](https://user-images.githubusercontent.com/98669750/187090652-47c231ee-0659-4ee2-bac1-e727f8016b85.png)
+
 
 
 
