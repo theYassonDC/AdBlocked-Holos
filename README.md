@@ -8,7 +8,7 @@ bloqueador de anuncios version beta, este bloquea por ahora anuncios del hotel l
 
 # Como usar la extension 
 - **Para Edge**
-Descarga este repositorio no importa si no estas logeado a la pagina de esta manera:
+Clic en el boton donde dice "Code"
 
 
 
