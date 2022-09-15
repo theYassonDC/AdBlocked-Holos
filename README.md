@@ -13,8 +13,8 @@ __**Secciones**__
 ### Actualizaciones
 ```json
 {
-  "version": "v0.0.0.1 - beta",
-  "updates": "No hay por el momento."
+  "version": "v0.0.1.0 - beta",
+  "updates": "Nuevo holo que bloquea anuncio hgalaxy, funcion mas optima para detectar anuncios de estos holos."
 }
 ```
 
