@@ -10,7 +10,7 @@ __**Secciones**__
 
 
 
-> <h3>Actualizaciones</h3>
+### Actualizaciones
 ```json
 {
   "version": "v0.0.0.1 - beta",
