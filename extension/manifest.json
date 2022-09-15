@@ -1,13 +1,13 @@
 {
     "name": "Block publics",
     "version": "0.0.0.1",
-    "manifest_version": 2,
+    "manifest_version": 3,
     "description": "Extension from block publicitys",
     "author": "JuandaC",
     "icons": {
         "128": "icons/R.png"
     },
-    "browser_action": {
+    "action": {
         "default_popup": "popup/popup.html"
     },
     "content_scripts": [
