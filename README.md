@@ -2,7 +2,7 @@
 bloqueador de anuncios version beta, este bloquea por ahora anuncios del hotel llamado kubbo.city si tiene mas apoyo va tener mas disponibilidad para mas habbo holos
 
 
-__**Secciones**__
+__**Secciones 1**__
 
 - [Descargar archivo](https://github.com/theYassonDC/AdBlocked-Holos#descargar-archivo)
 - [Usar extension para edge](https://github.com/theYassonDC/AdBlocked-Holos#para-edge)
