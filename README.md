@@ -1,4 +1,4 @@
-# AdBlocked-Holos v0.0.1
+# AdBlocked-Holos v0.1.0
 bloqueador de anuncios version beta, este bloquea por ahora anuncios del hotel llamado kubbo.city si tiene mas apoyo va tener mas disponibilidad para mas habbo holos
 
 
@@ -14,7 +14,7 @@ __**Secciones**__
 ```json
 {
   "version": "v0.0.1.0 - beta",
-  "updates": "Nuevo holo que bloquea anuncio hgalaxy, funcion mas optima para detectar anuncios de estos holos."
+  "updates": "Nuevo holo bloqueado para anuncio hgalaxy, funcion mas optima para detectar anuncios de estos holos."
 }
 ```
 
