@@ -1,11 +1,11 @@
 {
-    "name": "Block publics",
-    "version": "0.0.0.1",
+    "name": "AdBlock Holos",
+    "version": "0.0.1.0",
     "manifest_version": 3,
-    "description": "Extension from block publicitys",
+    "description": "Extension con el uso y finalidad de bloquear publicidad de los habbo holos. - Version beta",
     "author": "JuandaC",
     "icons": {
-        "128": "icons/R.png"
+        "128": "icons/block.png"
     },
     "action": {
         "default_popup": "popup/popup.html"
@@ -14,7 +14,8 @@
         {
             "matches": [
                 "https://kubbo.city/*",
-                "https://hgalaxy.net/*"
+                "https://hgalaxy.net/*",
+                "https://www.hobba.tv/*"
             ],
             "js": [
                 "scripts/blocker.main.js"
