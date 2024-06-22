@@ -13,8 +13,8 @@ __**Secciones**__
 ### Actualizaciones
 ```json
 {
-  "version": "v0.0.1.0 - beta",
-  "updates": "Nuevo holo bloqueado para anuncio hgalaxy, funcion mas optima para detectar anuncios de estos holos."
+  "version": "v0.0.2.0 - beta",
+  "updates": "Se bloquea solo kubbo.city los anuncios en el client"
 }
 ```
 
